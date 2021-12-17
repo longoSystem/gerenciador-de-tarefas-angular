@@ -1,6 +1,10 @@
-# GerenciadorDeTarefas
+# Gerenciador de Tarefas: Angular 13
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+
+## Objetivo
+
+Este projeto tem como finalidade realizar a implementação das camadas de frontend e backend usando os novos recursos do framework Angular na versão 13. 
 
 ## Development server
 
