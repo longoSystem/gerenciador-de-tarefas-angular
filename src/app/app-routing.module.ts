@@ -9,7 +9,7 @@ export const routes: Routes = [
         redirectTo: 'tarefas/listar',
         pathMatch: 'full'
     },
-    ...TarefaRoutes // o operador ... concatena arrays.
+    ...TarefaRoutes // o operador "..." concatena arrays.
 ];
 
 @NgModule({
